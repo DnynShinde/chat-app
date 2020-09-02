@@ -12,7 +12,7 @@
 Install dependencies:
 
 ```bash
-npm install # Express dependencies
+npm install 
 ```
 
 Run server:
