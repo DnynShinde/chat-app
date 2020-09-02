@@ -1,6 +1,6 @@
 # chat-app
 
-### chat-application, chat in room or group
+### chat-application, start chat in room or in group
 
 1. NodeJS
 2.Express JS + Socket.io
