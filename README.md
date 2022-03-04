@@ -1,7 +1,6 @@
 # chat-app
 
-### chat-application, start chat in room or in group
-#### Share link with your friends, let's start the conversation.
+### chat-application, start chat in room
 No need of any *account* just go and enter your *username* and *room* *name*.
 
 
